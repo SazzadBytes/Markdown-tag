@@ -43,7 +43,7 @@ this is horizontal line
 
 [Google](google.com)
 
-> for image you can just use a !(exclamatory sign)
+> for image you can just use a !(exclamatory sign) before the link sign
 
 ![Sazzad Cover](https://github.com/SazzadBytes/SazzadBytes/blob/main/Projects.png)
 
